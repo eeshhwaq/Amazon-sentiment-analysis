@@ -4,7 +4,7 @@ This project aims to analyze customer sentiments on Amazon product reviews using
 
 ## 📂 Dataset
 
-- Source: [Kaggle - Amazon Product Reviews](https://www.kaggle.com/datasets)
+- Source: [Kaggle](https://www.kaggle.com/datasets)
 - Contains textual reviews categorized as **positive** or **negative**
 
 ## 🧹 Data Preprocessing
@@ -34,6 +34,3 @@ The raw reviews were cleaned using the following steps:
 
 - **Positive WordCloud**: Words most frequently appearing in positive reviews
 - **Negative WordCloud**: Words most commonly used in negative reviews
-
-## 📊 Project Structure
-
